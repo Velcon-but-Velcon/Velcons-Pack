@@ -3,3 +3,4 @@ A texture files page, fo Minecraft. These are some of the texture packs I made a
 Current resources:
 https://www.curseforge.com/minecraft/texture-packs/the-innit-pack
 https://www.curseforge.com/minecraft/texture-packs/imdjforshorts-perferct-pvp-pack
+https://www.curseforge.com/minecraft/texture-packs/firewolf-resource-pack
